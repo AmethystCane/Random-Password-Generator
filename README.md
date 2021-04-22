@@ -7,4 +7,4 @@
 5) Shuffled uppercase, lowercase, integers and special characters
 
 
-*Thanks to Code-of-the-future for the amazing tutorials :wave:
+*Thanks to Code-of-the-future for the amazing projects :wave:
