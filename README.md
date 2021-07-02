@@ -1,4 +1,4 @@
-# Random-Password-Generator
+## Random-Password-Generator
 5 different sets of passwords are created:
 1) Uppercase
 2) Upper and lowercase
@@ -7,4 +7,4 @@
 5) Shuffled uppercase, lowercase, integers and special characters
 
 
-*Thanks to Code-of-the-future for the amazing projects :wave:
+*Thanks to Code-of-the-future for the amazing projects* :wave:
